@@ -8,5 +8,5 @@ Download from: https://github.com/TanviYarragunta1/MangoLeafDiseaseClassificatio
 3. Import the requires libraries.
 4. Load the data into the model.
 5. Build and compile the model.
-6.You get the graphs for accuracy and loss. 
+6. You get the graphs for accuracy and loss. 
 7. There are 2 models build. So check for the highest accuracy and decide which model works the best.
